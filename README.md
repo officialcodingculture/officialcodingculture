@@ -2,7 +2,7 @@
 - 👀 I’m interested in Doing Coding and SOlving Logical Problems
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making projects
-- 📫 How to reach me email :- pandeyrajeev1680@gmail.com
+- 📫 How to reach me email :- officialcodingculture@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: 
 
