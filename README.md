@@ -46,6 +46,7 @@
 <h2>📫 Let's Connect</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/rajeev-ranjan-pandey-a2a95332a/">LinkedIn</a></li>
+  <li><a href="https://www.codechef.com/users/codingculture">codechef</a></li>
   <li><a href="[Your Twitter Profile]">Twitter</a></li>
   <li><a href="[Your Website]">Personal Website/Blog</a></li>
 </ul>
