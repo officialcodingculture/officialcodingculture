@@ -15,6 +15,8 @@
   <li>⚡ Fun fact: <strong>i am a little bit funny</strong>.</li>
 </ul>
 
+<!--view count-->
+
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
   <li><strong>Languages:</strong>python,c,c++,javascript</li>
